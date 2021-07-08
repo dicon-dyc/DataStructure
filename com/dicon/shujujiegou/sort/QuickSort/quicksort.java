@@ -1,4 +1,4 @@
-package com.dicon.shujujiegou.QuickSort;
+package com.dicon.shujujiegou.sort.QuickSort;
 
 import java.util.Arrays;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package com.dicon.shujujiegou.mergesort;
+package com.dicon.shujujiegou.sort.mergesort;
 
 import java.util.Arrays;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package com.dicon.shujujiegou.shellsort;
+package com.dicon.shujujiegou.sort.shellsort;
 
 import java.util.Arrays;
 import java.util.Scanner;

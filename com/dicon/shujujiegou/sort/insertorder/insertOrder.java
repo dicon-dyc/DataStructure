@@ -1,4 +1,4 @@
-package com.dicon.shujujiegou.insertorder;
+package com.dicon.shujujiegou.sort.insertorder;
 
 import java.util.Scanner;
 
